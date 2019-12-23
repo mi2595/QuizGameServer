@@ -1,0 +1,3 @@
+/home/michela/CLionProjects/QuizGameServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/michela/CLionProjects/QuizGameServer/cmake-build-debug/CMakeFiles/QuizGameServer.dir
+/home/michela/CLionProjects/QuizGameServer/cmake-build-debug/CMakeFiles/edit_cache.dir

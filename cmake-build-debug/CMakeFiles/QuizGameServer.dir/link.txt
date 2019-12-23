@@ -1,0 +1,1 @@
+/usr/bin/cc -pthread -g   CMakeFiles/QuizGameServer.dir/main.c.o CMakeFiles/QuizGameServer.dir/utilitySocket.c.o CMakeFiles/QuizGameServer.dir/utilityThread.c.o CMakeFiles/QuizGameServer.dir/server.c.o  -o QuizGameServer 
